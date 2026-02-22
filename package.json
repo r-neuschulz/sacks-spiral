@@ -1,0 +1,49 @@
+{
+  "name": "sacks-spiral",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "serve": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.0",
+    "@vueuse/core": "^14.2.1",
+    "chroma-js": "^3.2.0",
+    "clsx": "^2.1.1",
+    "d3-shape": "^3.2.0",
+    "katex": "^0.16.29",
+    "lucide-vue-next": "^0.575.0",
+    "node-vibrant": "^4.0.4",
+    "pinia": "^3.0.4",
+    "pinia-plugin-persistedstate": "^4.7.1",
+    "png-chunk-text": "^1.0.0",
+    "png-chunks-encode": "^1.0.0",
+    "png-chunks-extract": "^1.0.0",
+    "reka-ui": "^2.8.2",
+    "tailwind-merge": "^3.5.0",
+    "tailwindcss": "^4.2.0",
+    "vanilla-colorful": "^0.7.2",
+    "vue": "^3.5.28",
+    "vue-router": "^5.0.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.4",
+    "eslint": "^10.0.1",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-vue": "^10.8.0",
+    "globals": "^17.3.0",
+    "prettier": "^3.8.1",
+    "vite": "^7.3.1",
+    "vitest": "^4.0.18",
+    "vue-eslint-parser": "^10.4.0"
+  }
+}
