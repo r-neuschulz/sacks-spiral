@@ -26,7 +26,7 @@ export const TRANSPARENCY_MIN = 0
 export const TRANSPARENCY_MAX = 100
 export const LARGE_PRIME_THRESHOLD = 100000
 
-export const maxPrimePresets = [10000, 32400, 62500, 100000, 250000, 500000]
+export const maxPrimePresets = [10000, 32400, 62500, 100000, 500000]
 
 export const dotShapeOptions = [
   { value: 'circle', label: 'Circle' },

@@ -42,6 +42,6 @@ Uses hash mode (`#/`). Build and deploy the `dist` folder. Base path is relative
 
 **Inspiration and reference**
 
-- [Majcher.net – Spirale Ulama / Spirale Roberta Sacksa](https://majcher.net/diagramy-ulama/) — Blog (PL) on Ulam vs Sacks spirals, Sieve of Eratosthenes, Euler’s polynomial, and “most effective” prime-rich polynomials. Also hosts [animated-ulam-spiral-generator](https://github.com/majchernet/animated-ulam-spiral-generator).
-- [Fōrmulæ – Sacks spiral example](https://formulae.org/?script=examples/Sacks_spiral) — Interactive Sacks spiral in the Fōrmulæ scientific programming language.
-- [Natural Numbers – The Sacks Number Spiral](https://www.naturalnumbers.org/sparticle.html) — Michael M. Ross’ exploration of product curves, pronic numbers, polynomial alignment, and Robert Sacks’ offset rule.
+- [Majcher.net – Spirale Ulama / Spirale Roberta Sacksa](https://majcher.net/diagramy-ulama/) - Blog (PL) on Ulam vs Sacks spirals, Sieve of Eratosthenes, Euler’s polynomial, and “most effective” prime-rich polynomials. Also hosts [animated-ulam-spiral-generator](https://github.com/majchernet/animated-ulam-spiral-generator).
+- [Fōrmulæ – Sacks spiral example](https://formulae.org/?script=examples/Sacks_spiral) - Interactive Sacks spiral in the Fōrmulæ scientific programming language.
+- [Natural Numbers – The Sacks Number Spiral](https://www.naturalnumbers.org/sparticle.html) - Michael M. Ross’ exploration of product curves, pronic numbers, polynomial alignment, and Robert Sacks’ offset rule.

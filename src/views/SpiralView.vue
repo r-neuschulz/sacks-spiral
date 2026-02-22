@@ -468,9 +468,9 @@ async function downloadCanvas() {
             </ul>
             <h3 class="font-semibold">Inspiration and reference</h3>
             <ul class="list-disc pl-5 space-y-1 text-muted-foreground">
-              <li><a href="https://majcher.net/diagramy-ulama/" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Majcher.net – Spirale Ulama / Spirale Roberta Sacksa</a> — Blog (PL) on Ulam vs Sacks spirals, Sieve of Eratosthenes, Euler's polynomial, and "most effective" prime-rich polynomials. Also hosts <a href="https://github.com/majchernet/animated-ulam-spiral-generator" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">animated-ulam-spiral-generator</a>.</li>
-              <li><a href="https://formulae.org/?script=examples/Sacks_spiral" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Fōrmulæ – Sacks spiral example</a> — Interactive Sacks spiral in the Fōrmulæ scientific programming language.</li>
-              <li><a href="https://www.naturalnumbers.org/sparticle.html" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Natural Numbers – The Sacks Number Spiral</a> — Michael M. Ross' exploration of product curves, pronic numbers, polynomial alignment, and Robert Sacks' offset rule.</li>
+              <li><a href="https://majcher.net/diagramy-ulama/" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Majcher.net – Spirale Ulama / Spirale Roberta Sacksa</a> - Blog (PL) on Ulam vs Sacks spirals, Sieve of Eratosthenes, Euler's polynomial, and "most effective" prime-rich polynomials. Also hosts <a href="https://github.com/majchernet/animated-ulam-spiral-generator" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">animated-ulam-spiral-generator</a>.</li>
+              <li><a href="https://formulae.org/?script=examples/Sacks_spiral" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Fōrmulæ – Sacks spiral example</a> - Interactive Sacks spiral in the Fōrmulæ scientific programming language.</li>
+              <li><a href="https://www.naturalnumbers.org/sparticle.html" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Natural Numbers – The Sacks Number Spiral</a> - Michael M. Ross' exploration of product curves, pronic numbers, polynomial alignment, and Robert Sacks' offset rule.</li>
             </ul>
           </div>
         </div>

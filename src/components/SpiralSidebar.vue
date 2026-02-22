@@ -181,8 +181,8 @@ async function onImportPngChange(ev) {
     </div>
 
     <!-- Card 2: Settings (scrollable) -->
-    <div class="rounded-xl border border-border bg-card/95 backdrop-blur-xl p-4 shadow-lg flex-1 min-h-0 flex flex-col">
-      <UiScrollArea class="flex-1 py-3">
+    <div class="rounded-xl border border-border bg-card/95 backdrop-blur-xl pl-4 pt-4 pb-4 pr-0 shadow-lg flex-1 min-h-0 flex flex-col">
+      <UiScrollArea class="flex-1 py-3 pr-4">
         <div class="space-y-4">
           <!-- Spiral data -->
           <div class="space-y-2">
